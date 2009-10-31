@@ -1,0 +1,6 @@
+<show-page>
+	<append-content:>
+		<transition-button transition="test" update="ajax-result"/>
+		<div part="ajax-result">Result</div>
+	</append-content:>
+</show-page>
